@@ -1,6 +1,6 @@
 # 📘 Python Course – WildLearner
 
-This repository contains beginner-level Python exercises and notes based on the **WildLearner Python course**. It's a simple and practical collection meant to help reinforce core Python concepts through hands-on examples.
+This repository contains beginner-level Python exercises and notes based on the **WildLearner Python course** (https://wildlearner.com/learn/course/python). It's a simple and practical collection meant to help reinforce core Python concepts through hands-on examples.
 
 ## 🧠 What's Inside?
 
